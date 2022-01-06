@@ -1,0 +1,42 @@
+body {
+    font-family:Arial, Helvetica, sans-serif
+}
+#header {
+    background-color: #1d6c2b;
+    padding: 10px;
+    margin: 10px;
+    display: block;
+}
+li, ul {
+    list-style-type: none;
+}
+#headerDirections {
+    text-align: left;
+}
+h1 {
+    font-size: 50px;
+    text-align: right;
+}
+
+
+
+
+
+.animalImages img {
+    width: 400px;
+    height: 400px;
+}
+
+#heartButton {
+    color: black
+    font-size: 25px;
+    /* make the check box bigger */
+  }
+
+  .center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+  }
